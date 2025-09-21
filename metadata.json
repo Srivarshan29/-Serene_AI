@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Serene AI: Your Personal Wellness Companion",
+  "description": "An AI-powered therapy bot offering CBT-based chat, mood tracking, journaling, habit formation, and wellness exercises in a safe and supportive space. Serene uses advanced AI to provide personalized insights and guidance on your mental wellness journey.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
